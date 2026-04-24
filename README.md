@@ -101,7 +101,7 @@ This project was proudly developed by Group D for CSE 445:
 - **Md. Mehedi Hasan** (2022-3-60-119)
 - **Hasibul Hassan Himel** (2022-3-60-113)
 
-**Instructor**: Dipayan Bhadra  
+**Instructor**: Dr. Md Rifat Ahmmad Rashid, Associate Professor
 **Institution**: East West University, Dhaka, Bangladesh
 
 ---
